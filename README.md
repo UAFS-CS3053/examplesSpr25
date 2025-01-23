@@ -1,2 +1,1 @@
-# examplesSpr25
-CS 3053 Operating Systems - Code Examples from class
+# CS 3053 Operating Systems - Code Examples from class (SP 2025)
